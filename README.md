@@ -1,4 +1,4 @@
-#   CSMA
+#   TCP/IP
 
 
 
@@ -6,7 +6,7 @@
 
 Project contains two .sh files to make everything works.
 
-## Example of one one run of CSMA algorithm
+## Example of one one run of TCP/IP algorithm
 
 
 S: [0] A
