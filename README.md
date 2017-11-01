@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-Project contains two .sh files to make everything works.
+Project contains two .sh files.
 
 ## Example of one one run of TCP/IP algorithm
 
